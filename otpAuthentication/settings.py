@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'authApp.apps.AuthappConfig',
+    # 'authApp.apps.AuthappConfig',
     'adminApp.apps.AdminappConfig',
 ]
 
@@ -152,6 +152,4 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 
-# FIREBASE_PROJECT_ID = 'mobile-recharge-a2f5b'
-# FIREBASE_CERTIFICATE_PATH = 'E:/Django/Try1/try/try/serviceAccount.json'
 
