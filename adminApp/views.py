@@ -46,7 +46,7 @@ config={
     "messagingSenderId": "220946121042",
     "appId": "1:220946121042:web:402e08cd8a20f377ecba8b",
     "measurementId": "G-6JZEK2YC24",
-    "serviceAccount" : "E:/Django/Try1/try/try/serviceAccount.json",
+    # "serviceAccount" : "E:/Django/Try1/try/try/serviceAccount.json",
     "databaseURL" : "https://mobile-recharge-a2f5b-default-rtdb.firebaseio.com/",
 }
 
